@@ -1,5 +1,5 @@
 # sentiment_analysis
-A notebook using Keras + Sklearn which performs text classification
+A notebook using Keras + Sklearn which performs text classification by using many different AI Models (LSTM, CNN, Naive-Bayes etc)
 
 Read more here:
 
